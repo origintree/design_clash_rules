@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-SUFFIX,githubassets.com
-  - DOMAIN-SUFFIX,dribbble.com.com
+  - DOMAIN-SUFFIX,dribbble.com
   - DOMAIN-SUFFIX,behance.com
   - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,artist.com
