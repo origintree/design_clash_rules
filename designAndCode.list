@@ -110,3 +110,5 @@ payload:
   - IP-CIDR,202.160.128.0/22
   - IP-CIDR,209.237.192.0/19
   - IP-CIDR,69.195.160.0/19
+# >> openrouter
+  - DOMAIN-SUFFIX,openrouter.ai
