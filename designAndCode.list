@@ -112,6 +112,7 @@ payload:
   - IP-CIDR,69.195.160.0/19
 # >> jav
   - DOMAIN-SUFFIX,javlibrary.com
+  - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,torrentkitty.one
   - DOMAIN-SUFFIX,btdig.com
   - DOMAIN-SUFFIX,btsow.motorcycles
