@@ -117,4 +117,6 @@ payload:
   - DOMAIN-SUFFIX,btdig.com
   - DOMAIN-SUFFIX,btsow.motorcycles
   - DOMAIN-SUFFIX,javdb368.com
+# >> jav
+  - DOMAIN-SUFFIX,pypi.org
 
