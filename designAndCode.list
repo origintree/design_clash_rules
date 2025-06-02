@@ -120,5 +120,5 @@ payload:
 # >> jav
   - DOMAIN-SUFFIX,pypi.org
 # >> 油猴
-  - greasyfork.org
+  - DOMAIN-SUFFIX,greasyfork.org
 
