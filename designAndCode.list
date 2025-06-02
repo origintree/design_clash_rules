@@ -121,5 +121,6 @@ payload:
   - DOMAIN-SUFFIX,pypi.org
 # >> 油猴
   - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,tampermonkey
 
 
