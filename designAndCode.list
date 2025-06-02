@@ -119,4 +119,6 @@ payload:
   - DOMAIN-SUFFIX,javdb368.com
 # >> jav
   - DOMAIN-SUFFIX,pypi.org
+# >> 油猴
+  - greasyfork.org
 
