@@ -122,3 +122,4 @@ payload:
 # >> 油猴
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,tampermonkey.net
+  - DOMAIN-SUFFIX,metacubex.one
