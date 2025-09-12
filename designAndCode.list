@@ -122,4 +122,8 @@ payload:
 # >> 油猴
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,tampermonkey.net
+# >> openclash 文档
   - DOMAIN-SUFFIX,metacubex.one
+# >> haos
+  - DOMAIN-SUFFIX,nabucasa.com
+  - DOMAIN-SUFFIX,hacs.vip
