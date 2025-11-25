@@ -127,3 +127,5 @@ payload:
 # >> haos
   - DOMAIN-SUFFIX,nabucasa.com
   - DOMAIN-SUFFIX,hacs.vip
+# >> haos
+  - DOMAIN-SUFFIX,ubuntu.com
