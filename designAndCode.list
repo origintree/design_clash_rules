@@ -119,6 +119,7 @@ payload:
   - DOMAIN-SUFFIX,javdb368.com
 # >> python
   - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,pythonhosted.org
 # >> 油猴
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,tampermonkey.net
