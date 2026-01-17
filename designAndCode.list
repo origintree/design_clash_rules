@@ -130,3 +130,7 @@ payload:
   - DOMAIN-SUFFIX,hacs.vip
 # >> haos
   - DOMAIN-SUFFIX,ubuntu.com
+
+# >> docker
+  - DOMAIN-SUFFIX,cloudflarestorage.com
+
