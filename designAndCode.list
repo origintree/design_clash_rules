@@ -29,6 +29,7 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-SUFFIX,doubleclick.net
 # >> OpenAI
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,auth0.com
