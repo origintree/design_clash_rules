@@ -30,6 +30,7 @@ payload:
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,usercontent.goog
 # >> OpenAI
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,auth0.com
