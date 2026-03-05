@@ -136,3 +136,6 @@ payload:
 # >> docker
   - DOMAIN-SUFFIX,cloudflarestorage.com
 
+# >> pi
+  - DOMAIN-SUFFIX,raspberrypi.com
+
