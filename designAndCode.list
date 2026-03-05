@@ -139,5 +139,5 @@ payload:
 # >> pi
   - DOMAIN-SUFFIX,raspberrypi.com
   - DOMAIN-SUFFIX,debian.org
-
+  - DOMAIN-SUFFIX,fastlydns.net
 
