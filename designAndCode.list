@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,workos.com
+  - DOMAIN-SUFFIX,cursorvm.com
 # >> Anthropic
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
