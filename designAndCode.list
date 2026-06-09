@@ -141,4 +141,6 @@ payload:
   - DOMAIN-SUFFIX,raspberrypi.com
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,fastlydns.net
+# >> hugging face
+  - DOMAIN-SUFFIX,hf.co
 
